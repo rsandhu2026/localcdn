@@ -4424,6 +4424,7 @@
         "supportedLanguages": [
           "en-us"
         ],
+        "supportsChannelFeatures": "mtCatalogResiliencyInvalidValue",
         "termsOfUseUrl": "https://go.microsoft.com/fwlink/?linkid=2039674",
         "validDomains": [
           "{teamsitedomain}",
